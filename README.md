@@ -1,6 +1,6 @@
 ### Hey, I'm Craig
 
-Developer based in London, working at Overcultured.
+Developer based in Forest City, working at Overcultured.
 
 #### Projects
 
