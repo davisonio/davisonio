@@ -1,6 +1,6 @@
 ### Hey, I'm Craig
 
-Developer based in Forest City, working at Overcultured.
+Developer based in [Forest City](https://forest.city), working at Overcultured.
 
 #### Projects
 
